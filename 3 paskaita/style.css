@@ -1,0 +1,97 @@
+body{
+	
+}
+
+footer{
+	/*background-color:red;*/
+	width:80rem;
+	margin:auto;
+	;
+}
+
+.top-menu{
+	border-bottom: 0.5px solid #d9d7c1
+}
+
+
+.container{
+	padding-left:0px;
+	padding-right:0px;
+	margin-left:0px;
+	margin-right:0px;
+}
+
+
+.container {
+     max-width: none; 
+}
+
+.nav-link:hover {
+  color: #F89B4D;
+}
+
+.nav-link{
+	color:#0a509b;
+}
+
+
+
+.prisijungti{
+	background-color:#0a509b;
+	color:white;
+}
+
+.prisijungti:hover{
+	background-color:#073665;
+	color:white;
+}
+
+.fa-chevron-circle-right{
+	color:#0a509b;
+}
+
+.fa-mobile{
+	color:#0a509b;
+	font-size:16px;
+	color:red;
+}
+
+.fa-building{
+	color:#0a509b;
+}
+
+.fa-truck{
+	color:#0a509b;
+}
+
+.fa-money-bill-alt{
+	color:#0a509b;
+}
+
+.fa-calendar-alt{
+	color:#0a509b;	
+}
+
+.top-header{
+	margin-right:0px;
+}
+
+.paieskos-mygtukas{
+	border-radius:0;
+	vertical-align: baseline;
+	margin-left:-5px;
+	background-color:#0a509b;
+	color:white;
+	border:1px solid #0a509b;
+	font-size:14px;
+	height:40px;
+}
+
+.paieskos-mygtukas:hover{
+	background-color:#073665;
+	border:1px solid #0a509b;
+}
+
+.prisijungti:focus{
+	background-color:red;
+}
